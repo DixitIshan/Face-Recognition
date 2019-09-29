@@ -25,7 +25,7 @@ with open(filepath) as fp:
 	 line = fp.readline()
 	 while line:
 	 	people.append(line.strip())
-			 line = fp.readline()
+	 	line = fp.readline()
 
 num_classes = len(people)
 
