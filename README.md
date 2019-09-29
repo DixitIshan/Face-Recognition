@@ -31,7 +31,6 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 10. Optimize the Network according to necessity
 
 
-
 # HOW TO USE(tested on Ubuntu 16.04):
 1. Git clone this repository
 
@@ -50,22 +49,23 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 
 6. Test the model with test.py file
 
+
+# Tutorials:
+
+1. ANN Tutorial Blog - 
+
+2. ANN sample codes - https://github.com/DixitIshan/Deep_Learning_with_Keras/tree/master/ANN's
+
+3. CNN Tutorial Blog -
+
+4. CNN sample codes - https://github.com/DixitIshan/Deep_Learning_with_Keras/tree/master/CNN's
+
+
 # References:
 
-1. http://www.google.fr/
+1. https://viblo.asia/p/facial-recognition-system-face-recognition-Ljy5Vr6j5ra#_prepare-trainingtesting-data-0
 
-2. http://www.google.fr/
-
-3. https://viblo.asia/p/facial-recognition-system-face-recognition-Ljy5Vr6j5ra#_prepare-trainingtesting-data-0
-
-4. http://www.google.fr/
-
-5. http://www.google.fr/
 
 # Notes:
 
-* This Project is completed on a device with 6th gen Intel i5 Processor, 8 Gigs DDR3 RAM, and 2 Gigs Nvidia 940 Mx Graphics Card
-
-* Tensorflow GPU version is used for Training the Network
-
-* 
+* This Project is completed on a device with 6th gen Intel i5 Processor, 8 Gigs DDR3 RAM, and 2 Gigs Nvidia 940 Mx Graphics Card. Tensorflow GPU version is used for Training the Network.
