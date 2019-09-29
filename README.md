@@ -39,7 +39,9 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 	
 	2. Then it will also install all the necessary modules required for this project.
 	
-	3. At last, it will activate the Virutlal environment.
+	3. It will activate the Virutlal environment.
+	
+	4. Lastly it will create an 'image' folder in which all the training images will exist
 
 3. Create a folder in the image folder with the name of the person you wish to Identify
 
