@@ -1,4 +1,4 @@
-# Face-Recognition #
+# Face-Recognition
 
 This is a very basic Face Recognition system that utilizes deep learning to classify between different faces. The project utilizes Convolutional Neural Networks for Identifying different person. The CNN Architecture used in this project is loosely based on Oxford's Visual Geometery Group's Deep Face Architechture shown :point_down:
 
@@ -56,8 +56,16 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 
 2. http://www.google.fr/
 
-3. http://www.google.fr/
+3. https://viblo.asia/p/facial-recognition-system-face-recognition-Ljy5Vr6j5ra#_prepare-trainingtesting-data-0
 
 4. http://www.google.fr/
 
 5. http://www.google.fr/
+
+# Notes:
+
+* This Project is completed on a device with 6th gen Intel i5 Processor, 8 Gigs DDR3 RAM, and 2 Gigs Nvidia 940 Mx Graphics Card
+
+* Tensorflow GPU version is used for Training the Network
+
+* 
