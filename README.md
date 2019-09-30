@@ -1,5 +1,9 @@
 # Face-Recognition
 
+  - - - -
+  
+# Architechture
+
 This is a very basic Face Recognition system that utilizes deep learning to classify between different faces. The project utilizes Convolutional Neural Networks for Identifying different person. The CNN Architecture used in this project is loosely based on Oxford's Visual Geometery Group's Deep Face Architechture shown :point_down:
 
 
@@ -11,27 +15,6 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 # ALGORITHM:
 
 ![picture alt](https://github.com/DixitIshan/Face-Recognition/blob/master/screenshots/Untitled%20Diagram%20(1).jpg "Flow")
-
-1. Load raw images
-
-2. Convert raw images to categorical data
-
-3. Create a Neural Network
-
-4. Train the Network
-
-5. Save the Network. Load the Network
-
-6. Load video from Webcam
-
-7. Convert frames to Gray scale
-
-8. Detect Faces inside the Frame
-
-9. Predict, using the trained Network
-
-10. Optimize the Network according to necessity
-
 
 # HOW TO USE(tested on Ubuntu 16.04):
 1. Git clone this repository
