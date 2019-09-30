@@ -10,6 +10,8 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 
 # ALGORITHM:
 
+![picture alt](https://github.com/DixitIshan/Face-Recognition/blob/master/screenshots/Untitled%20Diagram%20(1).jpg "Flow")
+
 1. Load raw images
 
 2. Convert raw images to categorical data
