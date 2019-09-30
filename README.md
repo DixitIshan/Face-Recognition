@@ -1,6 +1,6 @@
 # Face-Recognition
 
-  - - - -
+- - - -
   
 # Architechture
 
@@ -11,10 +11,13 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 
 ![picture alt](https://i0.wp.com/sefiks.com/wp-content/uploads/2019/04/vgg-face-architecture.jpg?ssl=1 "VGG 16")
 
+- - - -
 
 # ALGORITHM:
 
 ![picture alt](https://github.com/DixitIshan/Face-Recognition/blob/master/screenshots/Untitled%20Diagram%20(1).jpg "Flow")
+
+- - - -
 
 # HOW TO USE(tested on Ubuntu 16.04):
 1. Git clone this repository
@@ -36,6 +39,7 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 
 6. Test the model with test.py file
 
+- - - -
 
 # Tutorials:
 
@@ -47,11 +51,13 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 
 4. CNN sample codes - https://github.com/DixitIshan/Deep_Learning_with_Keras/tree/master/CNN's
 
+- - - -
 
 # References:
 
 1. https://viblo.asia/p/facial-recognition-system-face-recognition-Ljy5Vr6j5ra#_prepare-trainingtesting-data-0
 
+- - - -
 
 # Notes:
 
