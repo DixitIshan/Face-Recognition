@@ -43,11 +43,11 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 
 # Tutorials:
 
-1. ANN Tutorial Blog - 
+1. ANN Tutorial Blog - **TODO*
 
 2. ANN sample codes - https://github.com/DixitIshan/Deep_Learning_with_Keras/tree/master/ANN's
 
-3. CNN Tutorial Blog -
+3. CNN Tutorial Blog - **TODO*
 
 4. CNN sample codes - https://github.com/DixitIshan/Deep_Learning_with_Keras/tree/master/CNN's
 
