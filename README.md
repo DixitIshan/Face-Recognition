@@ -57,4 +57,6 @@ This is a very basic Face Recognition system that utilizes deep learning to clas
 
 * This Project is completed on a device with 6th gen Intel i5 Processor, 8 Gigs DDR3 RAM, and 2 Gigs Nvidia 940 Mx Graphics Card. Tensorflow GPU version is used for Training the Network.
 
+* You can also evaluate the performance using a variety of methods such as K-fold cross validation, Accuracy score, Precision recall, ROC curve etc... I have not implemented all these yet. Please feel free to do it.
+
 * If you find any bug in the code or you would like to contribute to the code in any way, please do not hesitate.
